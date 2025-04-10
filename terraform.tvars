@@ -1,0 +1,3 @@
+nginx_image     = "nginx:latest"
+container_name  = "nginx-container"
+host_port       = 8081
